@@ -22,7 +22,7 @@ This workflow automatically:
 ## Architecture
 <img width="1192" height="715" alt="image" src="https://github.com/user-attachments/assets/3d0f45d1-cc06-4765-97a1-e02c33eab1c4" />
 
-[Insert architecture diagram]
+
 
 ## Tech Stack
 
@@ -36,13 +36,17 @@ This workflow automatically:
 
 ## Sample Output
 
-### Telegram Alert
 
-[screenshot]
+### Telegram Alert
+<img width="713" height="820" alt="image" src="https://github.com/user-attachments/assets/c2389c9a-9926-4309-82c7-d3d1859686da" />
+
+
+
 
 ### Google Sheet
 
-[screenshot]
+<img width="1133" height="202" alt="image" src="https://github.com/user-attachments/assets/9f702d36-fd40-4944-9ca7-181af849139d" />
+
 
 ## Results
 

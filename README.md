@@ -49,6 +49,45 @@ This workflow automatically:
 
 <img width="1133" height="202" alt="image" src="https://github.com/user-attachments/assets/9f702d36-fd40-4944-9ca7-181af849139d" />
 
+## Product Decisions
+
+### Why Resume Matching First?
+
+Resume matching acts as the first screening layer and eliminates low-fit opportunities before spending additional LLM tokens on company research.
+
+### Why Company Research?
+
+A role may appear attractive based on title alone, but company stage, funding, growth prospects, and product maturity significantly impact long-term career outcomes.
+
+### Why Weighted Scoring?
+
+Job fit is not determined solely by skill match. Career alignment, market opportunity, and compensation potential are also important decision factors.
+
+### Why Telegram Alerts?
+
+High-priority opportunities require immediate visibility and action without manually reviewing spreadsheets.
+
+## Scoring Framework
+
+Final Score =
+
+50% Resume Match Score
+
+* 30% Career Alignment Score
+* 15% Market Opportunity Score
+* 5% Salary Score
+
+Priority Classification:
+
+P1: 85+
+High-priority opportunities that should be reviewed immediately.
+
+P2: 75-84
+Strong opportunities worth considering.
+
+P3: Below 75
+Lower-priority opportunities stored for future reference.
+
 
 ## Results
 

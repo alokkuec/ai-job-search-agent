@@ -1,0 +1,14 @@
+Scoring Rules
+Career Alignment (0-100)
+How well role matches:
+
+Enterprise SaaS AI Products Product Management Platform Products Workflow Automation Technical PM work Market Opportunity (0-100)
+
+Market Opportunity (0-100) Consider:
+AI exposure Startup growth Funding Product category Future demand Salary Score (0-100)
+
+Salary Score (0-100) Based on:
+100 = Significant increase 80 = Similar pay 50 = Slight reduction 20 = Major reduction Risk Score (0-100)
+
+Risk Score (0-100) Higher risk:
+Tiny startup Unclear funding Weak PM culture Niche market

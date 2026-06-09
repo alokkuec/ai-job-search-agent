@@ -20,6 +20,8 @@ This workflow automatically:
 - Sends Telegram alerts for high-priority jobs
 
 ## Architecture
+<img width="1440" height="1640" alt="image" src="https://github.com/user-attachments/assets/a27a77ee-398a-4393-a4b7-ad9e65ec919d" />
+
 <img width="1192" height="715" alt="image" src="https://github.com/user-attachments/assets/3d0f45d1-cc06-4765-97a1-e02c33eab1c4" />
 
 

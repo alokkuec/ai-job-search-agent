@@ -1,0 +1,33 @@
+Research this company: [Execute previous nodes for preview]
+
+Provide:
+
+Company size
+Funding stage
+Growth prospects
+Remote culture
+Product maturity
+Return JSON only { "company": "LiveKit", "company_size": "20-50", "funding": "Series A", "growth_prospects": "High",
+
+"career_alignment_score": 92, "market_opportunity_score": 88, "salary_score": 85, "risk_score": 30,
+
+"apply_now": true, "priority": "High",
+
+"why_apply": [ "...", "...", "..." ],
+
+"why_not_apply": [ "...", "..." ] }
+
+Scoring Rules
+Career Alignment (0-100)
+How well role matches:
+
+Enterprise SaaS AI Products Product Management Platform Products Workflow Automation Technical PM work Market Opportunity (0-100)
+
+Market Opportunity (0-100) Consider:
+AI exposure Startup growth Funding Product category Future demand Salary Score (0-100)
+
+Salary Score (0-100) Based on:
+100 = Significant increase 80 = Similar pay 50 = Slight reduction 20 = Major reduction Risk Score (0-100)
+
+Risk Score (0-100) Higher risk:
+Tiny startup Unclear funding Weak PM culture Niche market

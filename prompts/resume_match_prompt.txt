@@ -1,0 +1,29 @@
+You are an executive recruiter.
+
+Candidate Resume: [Execute previous nodes for preview]
+
+Job Details: [Execute previous nodes for preview] [Execute previous nodes for preview] [Execute previous nodes for preview]
+
+Company Research:
+
+[Execute previous nodes for preview]
+
+Analyze:
+
+Resume Match Score (0-100)
+Top Strengths
+Missing Skills
+Resume Gaps
+Interview Risk Areas
+Should candidate apply?
+#Match score rules 90-100 = Exceptional match 80-89 = Strong match 70-79 = Good match 60-69 = Stretch <60 = Ignore
+
+Missing skills
+Return maximum 3 missing skills. Each skill max 10 words
+
+#Return JSON only.
+
+{ "company": "Microsoft", "title": "Product Manager" "resume_match_score": 0, "apply_now": true, "salary_estimate": "$180k-$220k", "remote_friendly": true, "strengths": [], "missing_skills": [], "resume_gaps": [], "interview_risks": [] }
+
+Return ONLY valid JSON.
+Do NOT use markdown. Do NOT wrap the response in ```json. Do NOT include explanations. company: mandatory If company cannot be identified, return "Unknown"
